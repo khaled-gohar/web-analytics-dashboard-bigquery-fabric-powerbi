@@ -119,12 +119,7 @@ This dashboard enables teams to:
 
 ---
 
-## 📸 Screenshots  
 
-(Add screenshots of your dashboard here for a strong visual impact)  
-
-
----
 
 ## 👤 About Me  
 
