@@ -31,7 +31,8 @@ This project simulates a **real-world scenario** where a company needs a **scala
 
 ## 🔗 Live Dashboard  
 
-👉 **[Explore the Interactive Dashboard]([#](https://app.fabric.microsoft.com/view?r=eyJrIjoiYThiN2E2NDQtMDAyZi00NmE3LTg4YWMtYzBiOGJhYWNjM2Y2IiwidCI6IjIzZGI2ZTA2LTA1YzQtNDg5ZC1iMTM2LWNiYTk0YThlNmYzNiIsImMiOjh9))**  
+👉 **[Explore the Interactive Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiYThiN2E2NDQtMDAyZi00NmE3LTg4YWMtYzBiOGJhYWNjM2Y2IiwidCI6IjIzZGI2ZTA2LTA1YzQtNDg5ZC1iMTM2LWNiYTk0YThlNmYzNiIsImMiOjh9)**  
+
 
 ---
 
