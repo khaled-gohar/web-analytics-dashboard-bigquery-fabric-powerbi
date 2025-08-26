@@ -139,4 +139,5 @@ I’m **Khaled Gohar**, a **Data Analyst** with expertise in:
 
 This project reflects how I design and deliver **end-to-end data solutions** that bridge **raw data** to **business insights**.  
 
+🔗 [LinkedIn](https://www.linkedin.com/in/khaled-gohar/) | [GitHub](https://github.com/khaled-gohar)  
 ---
