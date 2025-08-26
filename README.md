@@ -2,8 +2,8 @@
 
 📊 [Live Dashboard Link](#)
 <p align="left">
-  <a href="https://img.youtube.com/vi/sVGa6yifCdM/maxresdefault.jpg">
-    <img src="https://app.fabric.microsoft.com/view?r=eyJrIjoiYThiN2E2NDQtMDAyZi00NmE3LTg4YWMtYzBiOGJhYWNjM2Y2IiwidCI6IjIzZGI2ZTA2LTA1YzQtNDg5ZC1iMTM2LWNiYTk0YThlNmYzNiIsImMiOjh9" width="250">
+  <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiYThiN2E2NDQtMDAyZi00NmE3LTg4YWMtYzBiOGJhYWNjM2Y2IiwidCI6IjIzZGI2ZTA2LTA1YzQtNDg5ZC1iMTM2LWNiYTk0YThlNmYzNiIsImMiOjh9">
+    <img src="https://img.youtube.com/vi/sVGa6yifCdM/maxresdefault.jpg" width="250">
   </a>
 </p>
 
