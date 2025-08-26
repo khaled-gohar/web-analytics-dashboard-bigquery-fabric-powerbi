@@ -128,11 +128,6 @@ This dashboard enables teams to:
 
 (Add screenshots of your dashboard here for a strong visual impact)  
 
----
-
-## 🔗 Live Demo  
-
-👉 **[Click here to explore the dashboard](#)**  
 
 ---
 
